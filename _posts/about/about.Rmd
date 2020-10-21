@@ -1,11 +1,21 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "De Tandt Bastien"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Hello dear readers! My name is De Tandt Bastien! As part of my english course given by Ms. Ingrid Van Lancker, i have to present to you a topic related to my studies which is bioluminescence.
 
-- first name/surname, teacher’s name, class name and academic year
+But first let me introduce myself ! 
+
+I'm in second bachelor's degree in biology, i have chosen biology because life surrounds us and i'm passionate by studying it. I don't know yet what to do as work after university, there are so much intersting subjects in this discipline. I could become a zoologist, botanist, or i could study single cells, bacteria, viruses and so on.
+
+Next to my studies, i do combat sports and sometimes i walk my dog on the little hill near my house, it helps me to relieve all the stress that i acculumate with the work at school.
+
+This blog will help me to improve my english and informatic skills and i hope that this short introduction pleased you and has made you want to continue browsing this blog !
+
+**De Tandt Bastien - Blog for english class 2020-2021**
+
+

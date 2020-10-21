@@ -17,43 +17,31 @@
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
+    "date": "2020-10-21",
     "categories": [
       "English for Science",
       "Bacteria",
       "Adaptation"
     ],
     "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T11:20:28+02:00",
+    "last_modified": "2020-10-21T19:17:06+02:00",
     "preview_width": 3333,
     "preview_height": 2667
   },
   {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
+    "path": "posts/2020-10-21-test/",
+    "title": "test",
+    "description": "A short description of the post.",
     "author": [
       {
-        "name": "Student Unknown",
+        "name": "De Tandt Bastien",
         "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
-    ],
+    "date": "2020-10-21",
+    "categories": [],
     "preview": {},
-    "last_modified": "2020-10-08T11:20:28+02:00"
+    "last_modified": "2020-10-21T19:16:57+02:00"
   },
   {
     "path": "posts/about/",
@@ -61,14 +49,14 @@
     "description": {},
     "author": [
       {
-        "name": "___",
+        "name": "De Tandt Bastien",
         "url": {}
       }
     ],
-    "date": "2020-10-01",
+    "date": "2020-10-21",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-08T11:20:28+02:00"
+    "last_modified": "2020-10-21T19:08:56+02:00"
   },
   {
     "path": "posts/meal/",
@@ -86,6 +74,6 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2020-10-08T11:20:28+02:00"
+    "last_modified": "2020-10-21T16:53:33+02:00"
   }
 ]

@@ -1,0 +1,22 @@
+---
+title: "test"
+description: |
+  A short description of the post.
+author:
+  - name: De Tandt Bastien
+    url: {}
+date: "`r Sys.Date()`"
+#preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+lalala j'écris mon post
+

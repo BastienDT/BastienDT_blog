@@ -1,15 +1,13 @@
 ---
-title: "Recent posts:"
+title: "List of posts:"
 site: distill::distill_website
-listing: posts
+listing:
+  posts:
+    - 2020-10-21-test
+  # - nom du post dans _posts
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
-  
-.  
-  
-# Home Page
 
-Salut c'est mon blog
