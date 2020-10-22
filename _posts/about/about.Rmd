@@ -2,7 +2,7 @@
 title: "About Me"
 author:
   - name: "De Tandt Bastien"
-date: "`r Sys.Date()`"
+date: "`October 21, 2020`"
 output: distill::distill_article
 ---
 

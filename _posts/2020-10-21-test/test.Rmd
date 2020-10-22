@@ -1,11 +1,11 @@
 ---
-title: "test"
+title: "Article 1 : Flashes bright when squeezed tight: How single-celled organisms light up the oceans"
 description: |
-  A short description of the post.
+  In this first article, we begin our journey into my topic, bioluminescence ! We take a closer look to an organism who can produce light and make the oceans shine.
 author:
   - name: De Tandt Bastien
     url: {}
-date: "`r Sys.Date()`"
+date: "`October 22, 2020`"
 #preview: 
 output:
   distill::distill_article:
@@ -16,7 +16,35 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Introduction
+### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
-lalala j'écris mon post
+Source of the article: [https://www.sciencedaily.com/releases/2020/07/200706094132.htm](https://www.sciencedaily.com/releases/2020/07/200706094132.htm)
+
+July 6, 2020
+
+Word count : 620
+
+### II - VOCABULARY: 
+
+| Word from the text | Synonym/definition in english                                                                  | French translation    |
+|--------------------|------------------------------------------------------------------------------------------------|-----------------------|
+| Bloom              | The sudden development of conspicuous masses of organisms, as algae on the surface of a lake   | Prolifération         |
+| Eerie              | Mysterious, creepy                                                                             | Etrange               |
+| Stressed           | The physical force exerted on one thing by another                                             | Sous contrainte       |
+| To trigger         | To cause or begin                                                                              | Déclencher, provoquer |
+| Fireflies          | A beetle that comes out at night, having a light\-producing organ at the rear of the abdomen\. | Ver luisant, luciole  |
+| Indentation        | A cut, gap or mark in the edge or surface of something                                         | Indentation           |
+| Spurious           | Not authentic                                                                                  | Faux, fallacieux      |
+| To scare off       | To fill or be filled with fear or alarm                                                        | Effrayer              |
+
+### III - ANALYSIS TABLE ABOUT THE STUDY 
+
+|                                           |                                                                                                                                                                                                                                                    |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                              | University of Cambridge                                                                                                                                                                                                                            |
+|     Published in? when (if mentioned)?    | Science daily (6 July 2020)                                                                                                                                                                                                                        |
+| General topic                             | How single-celled organisms light up the oceans                                                                                                                                                                                                    |
+| Procedure/ what was examined              | Experimental tools based on micromanipulation   and high-speed imaging                                                                                                                                                                             |
+| Conclusions/ discovery                    | 1.Production of light when cell wall deformed by mechanical forces.  2.Brightness of the flash depends on depth of the deformation and the rate at which it is imposed  3.Mecanism related to ion channels  4.Use of light to scare off predators  |
+| Remaining questions                       | /         
 
