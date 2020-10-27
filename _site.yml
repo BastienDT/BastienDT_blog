@@ -18,6 +18,7 @@ navbar:
 base_url: http://BastienDT.github.io/BastienDT_blog/
 collections:
     posts:
+    disqus: bastien-blog-1 
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
