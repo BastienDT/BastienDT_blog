@@ -10,6 +10,14 @@ listing: posts
   
 .  
   
-# Home Page
+# HomePage
 
-Salut c'est mon blog
+Greetings everybody and welcome on my blog ! 
+
+In this blog you can navigate trought multiple sections as :
+
+**Home**: it's simply my homepage, the page where you are now. It includes all my recent posts and the section below.
+
+**About me**: it's a section where you can learn a litlle bit about me and about the purpose of this blog.
+
+**MEAL**: it stands for my english activity log, there you can see how i train my english, what are my usuals things that i do to improve it and the activities that i do that involves english.
