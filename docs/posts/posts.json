@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "De Tandt Bastien",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-30",
+    "categories": [
+      "English for Science",
+      "M.E.A.L."
+    ],
+    "preview": {},
+    "last_modified": "2020-10-30T10:41:10+01:00"
+  },
+  {
     "path": "posts/2020-10-21-test/",
     "title": "Article 1 : Flashes bright when squeezed tight: How single-celled organisms light up the oceans",
     "description": "In this first article, we begin our journey into my topic, bioluminescence ! We take a closer look to an organism who can produce light and make the oceans shine.",
@@ -12,7 +30,7 @@
     "date": "2020-10-22",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-27T19:00:09+01:00"
+    "last_modified": "2020-10-30T10:03:16+01:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
@@ -56,24 +74,6 @@
     "date": "2020-10-21",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-27T18:59:54+01:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
-    "preview": {},
-    "last_modified": "2020-10-21T16:53:33+02:00"
+    "last_modified": "2020-10-30T10:02:27+01:00"
   }
 ]
