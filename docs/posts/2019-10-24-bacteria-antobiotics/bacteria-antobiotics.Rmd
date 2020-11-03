@@ -1,0 +1,27 @@
+---
+title: "Bacterium adaptation"
+description: |
+  Analysis of "More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut"
+author:
+  - name: Student Unknown
+  - name: Nicolas Devilez
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+  - "Bacteria"
+  - "Adaptation"
+preview: images/jpg120051fa.png
+#draft: TRUE
+bibliography: biblio/bacteria.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+

@@ -1,0 +1,23 @@
+---
+title: "About Me"
+author:
+  - name: "De Tandt Bastien"
+date: "`October 21, 2020`"
+output: distill::distill_article
+---
+
+Hello dear readers! My name is De Tandt Bastien! As part of my English course given by Ms. Ingrid Van Lancker,I had to create a blog and I have to present to you a topic related to my studies which is bioluminescence.
+
+But first let me introduce myself ! 
+
+I'm in second bachelor's degree in biology, I have chosen biology because life surrounds us and I'm passionate by studying it. I don't know yet what to do as work after university, there are so much intersting subjects in this discipline. I could become a zoologist, botanist, or I could study single cells, bacteria, viruses and so on.
+
+Why did I choose bioluminescence ? Well, it's a good question! To be honest, I don't really know... But when I was searching for a topic, bioluminescence came quickly in my mind and as my researches was going deeper into this subject, I found it really intersting ! I hope that my blog will give you some interest in it.
+
+Next to my studies, I do combat sports and sometimes I walk my dog on the little hill near my house, it helps me to relieve all the stress that I acculumate with the work at school.
+
+This blog will help me to improve my English and informatic skills and I hope that this short introduction pleased you and has made you want to continue browsing this blog !
+
+**De Tandt Bastien - Blog for English class 2020-2021**
+
+
