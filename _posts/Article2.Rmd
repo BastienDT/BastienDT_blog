@@ -43,5 +43,5 @@ Word count : 611
 |     Published in? when (if mentioned)?    | Science Daily (August 12, 2020)                                                                                                                                 |
 | General topic                             | By making a mice bioluminescent, scientists have found a way to monitor the activity of mitochondria in living organisms                                        |
 | Procedure/ what was examined              | Scientists created two molecules and injected it into rodent to create light to see the activity of mitochondria                                                |
-| Conclusions/ discovery                    | 1.if mitochondria function less, the animal makes less light, if it function more, it makes more light  2.older rodents produce less light than the younger one |
+| Conclusions/ discovery                    | 1.if mitochondria function less, the animal makes less light, if it functions more, it makes more light  2.older rodents produce less light than the younger one |
 | Remaining questions                       | /                                                                                                                                                               |
