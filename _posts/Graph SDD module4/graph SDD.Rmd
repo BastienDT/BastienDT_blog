@@ -1,0 +1,39 @@
+---
+title: "Graph for data science module 4"
+categories: 
+  - "Data Sciences I"
+description: 
+  "The selected dataset is urchin_bio. It is a dataset of sea urchins biometry that shows several features from *Paracentrotus lividus* who have been sinned in Brittany or in urchins farm in Normandy."
+author:
+  - name: De Tandt Bastien
+    url: {}
+date: "`November 10, 2020`"
+#preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup}
+SciViews::R
+```
+
+```{r}
+data <- read("urchin_bio", package = "data.io")
+```
+
+```{r}
+?urchin_bio
+```
+
+```{r}
+height <- 0:3
+digestive_tract <- cumsum(rnorm(4))
+urchin_bio <- data.frame(height, digestive_tract)
+  ggplot(data, aes(x = height, y = digestive_tract)) +
+  geom_line(na.rm = TRUE)
+```
+
+By relating the weight of the digestive tract in y to the size in x, the graph shows that there is some correlation between these two factors. When the height increases, the weight of the digestive tract increases too.
+
+

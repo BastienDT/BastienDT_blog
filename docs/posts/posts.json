@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/Graph SDD module4/",
+    "title": "Graph for data science module 4",
+    "description": "The selected dataset is urchin_bio. It is a dataset of sea urchins biometry that shows several features from *Paracentrotus lividus* who have been sinned in Brittany or in urchins farm in Normandy.",
+    "author": [
+      {
+        "name": "De Tandt Bastien",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-10",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": "posts/Graph SDD module4/graph-SDD_files/figure-html5/unnamed-chunk-3-1.png",
+    "last_modified": "2020-11-10T16:30:21+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/Article 3/",
     "title": "Article 3: Newly discovered gene may give ‘sea pickles’ their glow.",
     "description": "In this third article, scientists have found how pyrosomes produce their light!",
@@ -12,7 +31,7 @@
     "date": "2020-11-07",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-07T23:29:15+01:00"
+    "last_modified": "2020-11-09T18:09:55+01:00"
   },
   {
     "path": "posts/meal/",
@@ -30,7 +49,7 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2020-11-07T23:25:56+01:00"
+    "last_modified": "2020-11-09T18:09:55+01:00"
   },
   {
     "path": "posts/",
@@ -45,7 +64,7 @@
     "date": "2020-11-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-03T09:33:39+01:00"
+    "last_modified": "2020-11-09T18:09:55+01:00"
   },
   {
     "path": "posts/2020-10-21-test/",
@@ -60,7 +79,7 @@
     "date": "2020-10-22",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-07T23:26:10+01:00"
+    "last_modified": "2020-11-09T18:09:55+01:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
@@ -87,7 +106,7 @@
       "Adaptation"
     ],
     "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-21T19:17:06+02:00",
+    "last_modified": "2020-11-09T18:09:55+01:00",
     "preview_width": 3333,
     "preview_height": 2667
   },
@@ -104,6 +123,6 @@
     "date": "2020-10-21",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-30T10:02:27+01:00"
+    "last_modified": "2020-11-09T18:09:55+01:00"
   }
 ]
