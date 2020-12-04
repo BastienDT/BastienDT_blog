@@ -21,3 +21,5 @@ In this blog you can navigate through multiple sections as :
 * **About me:** it's a section where you can learn a litlle bit about me and about the purpose of this blog.
 
 * **MEAL:** it stands for my English activity log, there you can see how I train my English, what are my usuals things that I do to improve it and the activities that I do that involves English.
+
+* **Data Sciences I:** in this category, i put my work for my cursus of data sciences.
