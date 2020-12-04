@@ -1,11 +1,11 @@
 ---
-title: "Article 4: Bioluminescent tag to detect DNA break repair"
+title: "Article 2 : Fireflies shed light on the function of mitochondria"
 description: |
-  Check out how scientist use bioluminescence to fight cancer!
+  In this second article, we see how bioluminescence is used to monitor the activity of mitochondria.
 author:
   - name: De Tandt Bastien
     url: {}
-date: "`December 04, 2020`"
+date: "`November 03, 2020`"
 categories:
   - "English for Science"
 #preview: 
@@ -20,11 +20,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
-Source of the article: [ScienceDaily](https://www.sciencedaily.com/releases/2020/08/200821141154.htm?fbclid=IwAR0Cyv_LiYcH8GYykwuSCqRwtmf-CNz7ba7KC6-NuaapyJ2mG6DoPHF77r8)
+Source of the article: [ScienceDaily](https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og)
 
-August 21, 2020
+August 12, 2020
 
-Word count : 466
+Word count : 611
 
 ### II - VOCABULARY: 
 
@@ -47,4 +47,3 @@ Word count : 466
 | Procedure/ what was examined              | Scientists created two molecules and injected it into rodent to create light to see the activity of mitochondria                                                |
 | Conclusions/ discovery                    | 1.if mitochondria function less, the animal makes less light, if it functions more, it makes more light  2.older rodents produce less light than the younger one |
 | Remaining questions                       | /                                                                                                                                                               |
-

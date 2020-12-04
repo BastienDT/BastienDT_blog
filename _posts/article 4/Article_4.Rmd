@@ -28,23 +28,28 @@ Word count : 466
 
 ### II - VOCABULARY: 
 
-| Word from the text | Synonym/definition in English                                                     | French translation |
-|--------------------|-----------------------------------------------------------------------------------|--------------------|
-| Compound           | Substance                                                                         | Composé            |
-| Rodent             | Any small animal that belongs to a group of animals with strong sharp front teeth | Rongeur            |
-| To rejuvenate      | To make look younger                                                              | Rajeunir           |
-| Intented           | Planned                                                                           | Prévu              |
-| Affordable         | Not expensive                                                                     | Abordable          |
-
+| Word from the text | Synonym/ definition in English                                                 | French translation |
+|--------------------|--------------------------------------------------------------------------------|--------------------|
+| Inherently         | By nature                                                                      | Par nature         |
+| To maintain        | rate                                                                           | maintenir          |
+| viability          | feasibility                                                                    | viabilité          |
+| intrinsic          | inherent                                                                       | intrinsèque        |
+| malignancy         | cancer: threat to life                                                         | malignité          |
+| pathway            | track                                                                          | chemin             |
+| xenografted        | a tissue graft obtained from a donor of a different species from the recipient | xénogreffe         |
+| Accuracy           | degree of correctness                                                          | exactitude         |
+| glioblastomas      | the most common and most aggressive primary brain tumor                        | glioblastome       |
+| glioma             | a brain tumor                                                                  | gliome             |
+| throughput         | work rate                                                                      | débit              |
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                           |                                                                                                                                                                 |
-|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Researchers?                              | Arkadiy A. Bazhin, Riccardo Sinisi, Umberto De Marchi, Aurélie Hermant, Nicolas Sambiagio, Tamara Maric, Ghyslain Budin, Elena A. Goun.                         |
-|     Published in? when (if mentioned)?    | Science Daily (August 12, 2020)                                                                                                                                 |
-| General topic                             | By making a mice bioluminescent, scientists have found a way to monitor the activity of mitochondria in living organisms                                        |
-| Procedure/ what was examined              | Scientists created two molecules and injected it into rodent to create light to see the activity of mitochondria                                                |
-| Conclusions/ discovery                    | 1.if mitochondria function less, the animal makes less light, if it functions more, it makes more light  2.older rodents produce less light than the younger one |
-| Remaining questions                       | /                                                                                                                                                               |
+|                                   |                                                                                                                                                                     |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                      | Jasper Che-Yung Chien, Elie Tabet, Kelsey Pinkham, Cintia Carla da Horo, Jason Cheng-Yu Chang, Steven Lin, Christian E Badr, Charles Pink-Kuang Lai.                |
+| Published in? when(if mentioned)? | ScienceDaily (21 August, 2020)                                                                                                                                      |
+| General topic                     | A new technique has been developed to detect DNA break repair using bioluminescence.                                                                                |
+| Procedure/ what was examined      | They have luciferases to detect the two major pathways of DNA double stranded break repair in cancer cell.                                                          |
+| Conclusions/ discovery            | They have used their technique to detect altered dynamics of DSB repair and to discover HDR-suppressing functions of anticancer cardiac glycosides in human cancer. |
+| Remaining questions               | /                                                                                                                                                                   |
 
