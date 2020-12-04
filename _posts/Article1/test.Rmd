@@ -8,6 +8,7 @@ author:
 date: "`October 22, 2020`"
 categories:
   - "English for Science"
+preview: Image1/dinoflagellate Pyrocystis lunula.png
 #preview: 
 output:
   distill::distill_article:

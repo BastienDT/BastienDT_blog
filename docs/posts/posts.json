@@ -13,8 +13,8 @@
     "categories": [
       "English for Science"
     ],
-    "preview": {},
-    "last_modified": "2020-12-04T11:40:54+01:00"
+    "preview": "posts/article 4/Image4/DNA.jpg",
+    "last_modified": "2020-12-04T12:42:10+01:00"
   },
   {
     "path": "posts/meal/",
@@ -67,8 +67,8 @@
     "categories": [
       "English for Science"
     ],
-    "preview": {},
-    "last_modified": "2020-12-04T11:34:43+01:00"
+    "preview": "posts/Article 3/Image3/Pyrosoma-B12_3862.jpg",
+    "last_modified": "2020-12-04T12:35:18+01:00"
   },
   {
     "path": "posts/Article 2/",
@@ -84,8 +84,8 @@
     "categories": [
       "English for Science"
     ],
-    "preview": {},
-    "last_modified": "2020-12-04T11:28:55+01:00"
+    "preview": "posts/Article 2/Image2/Article 2 image.webp",
+    "last_modified": "2020-12-04T12:24:32+01:00"
   },
   {
     "path": "posts/Article1/",
@@ -101,42 +101,15 @@
     "categories": [
       "English for Science"
     ],
-    "preview": {},
-    "last_modified": "2020-12-04T11:34:32+01:00"
-  },
-  {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-21",
-    "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-11-09T18:09:55+01:00",
-    "preview_width": 3333,
-    "preview_height": 2667
+    "preview": "posts/Article1/Image1/dinoflagellate Pyrocystis lunula.png",
+    "last_modified": "2020-12-04T12:23:09+01:00",
+    "preview_width": 500,
+    "preview_height": 250
   },
   {
     "path": "posts/about/",
     "title": "About Me",
-    "description": {},
+    "description": "Want to know more about me ? Then you are at the right place!",
     "author": [
       {
         "name": "De Tandt Bastien",
@@ -144,8 +117,10 @@
       }
     ],
     "date": "2020-10-21",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-11-09T18:09:55+01:00"
+    "last_modified": "2020-12-04T12:48:05+01:00"
   }
 ]

@@ -8,6 +8,7 @@ author:
 date: "`November 07, 2020`"
 categories:
   - "English for Science"
+preview: Image3/Pyrosoma-B12_3862.jpg
 #preview: 
 output:
   distill::distill_article:

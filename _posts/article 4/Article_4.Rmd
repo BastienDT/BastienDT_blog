@@ -8,6 +8,7 @@ author:
 date: "`December 04, 2020`"
 categories:
   - "English for Science"
+preview: Image4/DNA.jpg
 #preview: 
 output:
   distill::distill_article:

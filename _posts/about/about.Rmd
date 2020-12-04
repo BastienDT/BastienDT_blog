@@ -1,8 +1,12 @@
 ---
 title: "About Me"
+description: |
+  Want to know more about me ? Then you are at the right place!
 author:
   - name: "De Tandt Bastien"
 date: "`October 21, 2020`"
+categories:
+  - "English for Science"
 output: distill::distill_article
 ---
 
