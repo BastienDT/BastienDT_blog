@@ -19,33 +19,34 @@ SciViews::R
 ```
 
 ```{r}
-data <- read("urchin_bio", package = "data.io")
-```
-
-```{r}
+urchin <- read("urchin_bio", package = "data.io")
+urchin <- drop_na(urchin_bio)
 ?urchin_bio
 ```
 
 ```{r}
-height <- 0:3
-digestive_tract <- cumsum(rnorm(4))
-urchin_bio <- data.frame(height, digestive_tract)
-  ggplot(data, aes(x = height, y = digestive_tract)) +
-  geom_line(na.rm = TRUE)
+chart(data = urchin, as.numeric(weight) ~ as.numeric(height) %col=% origin) + 
+  geom_point() +
+  geom_line() +
+  labs(x = "height (in mm)", y = "weight (in g)")
 ```
 
-By relating the weight of the digestive tract in y to the size in x, the graph shows that there is some correlation between these two factors. When the height increases, the weight of the digestive tract increases too.
+This graphic shows two things. The first one is that the height and the weight are correletad and the second one is that the origin of the urchins has an impact on these two factors.The farm urchins can reach higher height and weight.
 
 ```{r}
-ggplot(data, aes(x = origin, y = skeleton)) + 
-geom_point(aes(color = origin), na.rm = TRUE) +
-geom_segment(aes(x = origin, xend = origin, y = 0,  yend = skeleton, color = origin), na.rm = TRUE)
+group_by(urchin, maturity) %>.%
+  summarise(., mean = mean(height)) -> urchin1
+
+ggplot(urchin1, aes(x = maturity, y = mean)) +
+  geom_point() + 
+  geom_segment( aes(x = maturity, xend = maturity, y = 0, yend = mean)) +
+  labs(x = "Gonads maturity", y = "average height (mm)" )
 ```
 
-With this graph, we can see that the origin of the animal have an impact on the weight of the skeleton, the urchin from a farm have a heavier skeleton.
+This graphic shows that the level of gonads maturity has no impact on the average height of the urchin.
 
 ```{r}
-ggplot(data, aes(x = spines, y = height)) +
+ggplot(urchin, aes(x = spines, y = height)) +
   geom_area(na.rm = TRUE, position = "dodge")
 ```
 
