@@ -1,0 +1,60 @@
+---
+title: "Article 5: Amber-encased fossil shines light on evolution of bioluminescent insects"
+description: |
+  In this second article, we see how bioluminescence is used to monitor the activity of mitochondria.
+author:
+  - name: De Tandt Bastien
+    url: {}
+date: "`February 06, 2020`"
+categories:
+  - "English for Science"
+preview: Image5/Cretophengodes azari (in amber).jpg
+#preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: [ScienceDaily](https://www.sciencedaily.com/releases/2021/01/210119194401.htm?fbclid=IwAR3FKFt7LhEsKep-smobciwa3ll3_yjm5nxJ1k31dQcaC_cSevmVGGunDRA)
+
+January 19, 2021
+
+Word count : 500
+
+### II - VOCABULARY: 
+
+| Word from the text | Synonym/definition in English                                                         | French translation   |
+|--------------------|---------------------------------------------------------------------------------------|----------------------|
+| Beetle             | Insect, bug                                                                           | scarabée, coléoptère |
+| (to) shed light    | clarify, explain                                                                      | éclairer             |
+| Cretaceous         | A geological period                                                                   | le crétacé           |
+| Fireflies          | flying insect that glows                                                              | ver luisant, luciole |
+| Relatives          | linked to                                                                             | relative             |
+| To ward off        | to avert                                                                              | prévenir             |
+| Soft-bodied        | having a soft body                                                                    | corps mou            |
+| Scant              | little                                                                                | peu de               |
+| Cretophengodes     | A fossil-light-producing beetle from Cretaceous Burmese amber (100 million years old) | crétophengodes       |
+| Rhagophthalmidae   | A family of beetles which have bioluminescent organs                                  | rhagophthalmidae     |
+| Phengodidae        | A family of beetles related to the rhagophthalmidae                                   | phengodidae          |
+| Heterogeneous      | diverse                                                                               | hétérogène           |
+| Unrelated          | not connected                                                                         | sans lien            |
+| Co-opt             | admit                                                                                 | admettre             |
+| Overlooked         | neglected                                                                             | oublié, omis         |
+
+
+### III - ANALYSIS TABLE ABOUT THE STUDY 
+
+|                                       |                                                                                                                                                                                                                                           |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers?                          | Yan-Da Li, Robin Kundrata, Erik Tihelka, Zhenhua Liu, Diying Huang, Chenyang Cai.                                                                                                                                                         |
+| Published in? when (if mentioned)?    | ScienceDaily (January 19, 2021).                                                                                                                                                                                                          |
+| General topic                         | A new fossil, preserved in amber, of bioluminescent   beetle have been discovered.                                                                                                                                                        |
+| Procedure/ what was examined          | They examined the fossil of the beetle.                                                                                                                                                                                                   |
+| Conclusions/ discovery                | Beetles were capable of producing light 100   million years ago.     This fossil will help to understand how   bioluminescent beetles evolved and how to classify them.     Light is used to ward off predators and to   locate mates.    |
+| Remaining questions                   | /                                                                                                                                                                                                                                         |
