@@ -1,7 +1,7 @@
 ---
 title: "Article 5: Amber-encased fossil shines light on evolution of bioluminescent insects"
 description: |
-  In this second article, we see how bioluminescence is used to monitor the activity of mitochondria.
+  Preserved with 'life-like' fidelity, beetle from the Cretaceous is fireflies' missing fossil link.
 author:
   - name: De Tandt Bastien
     url: {}
