@@ -11,7 +11,7 @@ navbar:
     - text: "M.E.A.L."
       href: "posts/meal/index.html"
     - icon: fab fa-github
-      href: https://github.com/Bastien/Bastien_blog
+      href: https://github.com/BastienDT/BastienDT_blog
 base_url: http://BastienDT.github.io/BastienDT_blog/
 collections:
     posts:
