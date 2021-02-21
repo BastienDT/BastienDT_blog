@@ -1,18 +1,15 @@
 name: "blog-template"
-title: "Bastien's Blog"
+title: "Bioluminescence - De Tandt Bastien's blog"
 output_dir: "docs"
 navbar:
+  search: true 
   right:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: "posts/about/index.html"
-    - text: "Sections"
-      menu:
-        - text: "M.E.A.L."
-          href: "posts/meal/index.html"
-        - text: "Science posts"
-          href: list-posts.html
+    - text: "M.E.A.L."
+      href: "posts/meal/index.html"
     - icon: fab fa-github
       href: https://github.com/Bastien/Bastien_blog
 base_url: http://BastienDT.github.io/BastienDT_blog/
