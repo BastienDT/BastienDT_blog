@@ -1,0 +1,86 @@
+---
+title: "Article 6: Shedding new light on mysteries behind the light emission of fireflies."
+description: |
+  Scientists have dug into the scientific literature to learn more about the mysterious phenomenon of bioluminescence.
+author:
+  - name: De Tandt Bastien
+    url: {}
+date: "`March 01, 2021`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: [https://www.sciencedaily.com/releases/2020/12/201210145705.htm?fbclid=IwAR2Zwal8uaio3eQ3OTqS06Ar2-RzELn7RIJZf9sJ68exAVH7Zl9RZ_Vwics](https://www.sciencedaily.com/releases/2020/12/201210145705.htm?fbclid=IwAR2Zwal8uaio3eQ3OTqS06Ar2-RzELn7RIJZf9sJ68exAVH7Zl9RZ_Vwics)
+
+December 14, 2020
+
+Word count: 416
+
+
+### II - VOCABULARY: 
+
+| Word from the text | Synonym/definition in English                                         | French translation   |
+| ------------------ | --------------------------------------------------------------------- | -------------------- |
+| Thorough           | Total, complete                                                       | Complet, total       |
+| surrounding        | enclosing                                                             | Qui entoure          |
+| uncover            | Take cover off                                                        | découvrir            |
+| Elusive            | Hard to grasp                                                         | Compliqué            |
+| featured           | Mentioned                                                             | Presenté, illustré   |
+| To provide         | supply                                                                | fournir              |
+| overview           | summary                                                               | Vue d’ensemble       |
+| Beetle             | Insect, bug                                                           | Scarabée, coléoptère |
+| fireflies          | Flying insect that glows                                              | Ver luisant, luciole |
+| intricate          | complex                                                               | complexe             |
+| To govern          | control                                                               | Controller, régir    |
+| Wild-type          | the phenotype of the typical form of a species as it occurs in nature | Type sauvage         |
+| enable             | Make able                                                             | permettre            |
+| To engineer        | build                                                                 | concevoir            |
+| within             | On the inside of                                                      | dans                 |
+| range              | limits                                                                | gamme                |
+| throughout         | Time: during all of                                                   | Tout au long de      |
+| laypersons         | novice                                                                | profane              |
+| ostracods          | a class of the Crustacea                                              | Ostracode            |
+| efficiently        | effectively                                                           | efficacement         |
+| Bacterial strain   | bacteria from which a suite descends                                  | Souche bactérienne   |
+| Poised to          | All set                                                               | Sur le point de      |
+|                    |                                                                       |                      |
+|                    |                                                                       |                      |
+|                    |                                                                       |                      |
+
+### III - ANALYSIS TABLE ABOUT THE STUDY 
+
+|                                        |                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Researchers?**                       | César Carrasco-López
+
+Nathan M. Lui
+
+Stefan Schramm
+
+Panče Naumov.                                                                                                                                                                                                                                                                                       |
+| **Published in? when (if mentioned)?** | Nature (December 09, 2020)                                                                                                                                                                                                                                                                                                                               |
+| **General topic**                      | A review about bioluminescence                                                                                                                                                                                                                                                                                                                           |
+| **Procedure/ what was examined**       | · They summed up knowledge we have about bioluminescence
+
+· They used scientific literature
+
+· They analyzed structural factors for light emission on wild-type and mutant luciferases                                                                                                                                                                   |
+| **Conclusions/ discovery**             | 1. Will help other scientists in their work about bioluminescence
+
+2. Possibility to form a library of bioluminescent enzyme
+
+3. Scientists could control color and intensity of the light
+
+4. This will enlarge the limits of application of bioluminescence
+
+5. There is a large panel of application such as cancer research, monitor water toxicity… |
+| **Remaining questions**                | None                                                                                                                                                                                                                                                                                                                                                     |

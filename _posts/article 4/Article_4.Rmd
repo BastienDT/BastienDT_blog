@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
-Source of the article: [ScienceDaily](https://www.sciencedaily.com/releases/2020/08/200821141154.htm?fbclid=IwAR0Cyv_LiYcH8GYykwuSCqRwtmf-CNz7ba7KC6-NuaapyJ2mG6DoPHF77r8)
+Source of the article: [https://www.sciencedaily.com/releases/2020/08/200821141154.htm?fbclid=IwAR0Cyv_LiYcH8GYykwuSCqRwtmf-CNz7ba7KC6-NuaapyJ2mG6DoPHF77r8](https://www.sciencedaily.com/releases/2020/08/200821141154.htm?fbclid=IwAR0Cyv_LiYcH8GYykwuSCqRwtmf-CNz7ba7KC6-NuaapyJ2mG6DoPHF77r8)
 
 August 21, 2020
 
@@ -29,28 +29,75 @@ Word count : 466
 
 ### II - VOCABULARY: 
 
-| Word from the text | Synonym/ definition in English                                                 | French translation |
-|--------------------|--------------------------------------------------------------------------------|--------------------|
+| Word from the text | Synonym/definition in English                                                  | French translation |
+| ------------------ | ------------------------------------------------------------------------------ | ------------------ |
+| tag                | Identification label                                                           | balise             |
+| To track           | follow                                                                         | pister             |
+| strand             | thread                                                                         | brin               |
+| break              | fracture                                                                       | fracture           |
+| To monitor         | observe                                                                        | Surveiller         |
+| pathway            | path                                                                           | chemin             |
+| Cell lines         | cell culture                                                                   | Culture cellulaire |
+| such               | So extreme                                                                     | Tel, telle         |
+| crucial            | Very important                                                                 | crucial            |
 | Inherently         | By nature                                                                      | Par nature         |
-| To maintain        | rate                                                                           | maintenir          |
-| viability          | feasibility                                                                    | viabilité          |
-| intrinsic          | inherent                                                                       | intrinsèque        |
-| malignancy         | cancer: threat to life                                                         | malignité          |
+| To maintain        | Rate                                                                           | Maintenir          |
+| To disrupt         | Cause disorder                                                                 | pertuber           |
+| Viability          | feasibility                                                                    | Viabilité          |
+|                    |                                                                                |                    |
+| Intrinsic          | inherent                                                                       | Intrinsèque        |
+| To promote         | Advertise                                                                      | Promouvoir         |
+| recurrence         | Further instance of                                                            | Recurrence         |
+| malignancy         | Cancer: threat to life                                                         | Malignité          |
+| homologous         | similar                                                                        | homologue          |
 | pathway            | track                                                                          | chemin             |
-| xenografted        | a tissue graft obtained from a donor of a different species from the recipient | xénogreffe         |
-| Accuracy           | degree of correctness                                                          | exactitude         |
-| glioblastomas      | the most common and most aggressive primary brain tumor                        | glioblastome       |
-| glioma             | a brain tumor                                                                  | gliome             |
-| throughput         | work rate                                                                      | débit              |
+| Xenografted        | A tissue graft obtained from a donor of a different species from the recipient | Xénogreffe         |
+| Time-consuming     | Taking considerable time                                                       | Prendre du temps   |
+| Accuracy           | Degree of correctness                                                          | exactitude         |
+| To carry out       | accomplish                                                                     | réaliser           |
+| significant        | With meaning                                                                   | Significative      |
+| Altered            | changed                                                                        | Modifié, change    |
+| induced            | Caused by                                                                      | Causé par          |
+| Glioblastomas      | The most common and most aggressive primary brain tumour                       | glioblastome       |
+| Glioma             | A brain tumor                                                                  | Gliome             |
+| sufficiently       | adequately                                                                     | Suffisamment       |
+| Versatile          | Many uses                                                                      | Polyvalent         |
+| throughput         | Work rate                                                                      | débit              |
+| novel              | new                                                                            | Novateur           |
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                   |                                                                                                                                                                     |
-|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Researchers?                      | Jasper Che-Yung Chien, Elie Tabet, Kelsey Pinkham, Cintia Carla da Horo, Jason Cheng-Yu Chang, Steven Lin, Christian E Badr, Charles Pink-Kuang Lai.                |
-| Published in? when(if mentioned)? | ScienceDaily (21 August, 2020)                                                                                                                                      |
-| General topic                     | A new technique has been developed to detect DNA break repair using bioluminescence.                                                                                |
-| Procedure/ what was examined      | They have luciferases to detect the two major pathways of DNA double stranded break repair in cancer cell.                                                          |
-| Conclusions/ discovery            | They have used their technique to detect altered dynamics of DSB repair and to discover HDR-suppressing functions of anticancer cardiac glycosides in human cancer. |
-| Remaining questions               | /                                                                                                                                                                   |
+|                                        |                                                                                                                                                                                                                                                                                        |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Researchers?**                       | Jasper Che-Yung Chien
 
+Elie Tabet
+
+Kelsey Pinkham
+
+Cintia Carla da  Hora
+
+Jason Cheng-Yu Chang
+
+Steven Lin
+
+Christian E Badr
+
+Charles Pink-Kuang Lai.                                                                                                                                  |
+| **Published in? when (if mentioned)?** | Nucleic Acids Research (14 August, 2020)                                                                                                                                                                                                                                               |
+| **General topic**                      | Bioluminescent tag to detect DNA break repair                                                                                                                                                                                                                                          |
+| **Procedure/ what was examined**       | · Use of enzymes responsible for bioluminescence to follow molecules in cell
+
+· Scientist test it on animals and cell lines
+
+· They study DNA with this system                                                                                                                         |
+| **Conclusions/ discovery**             | 1. Can monitor and detect DNA repair pathways
+
+2. It is used to detect two main path of DNA double stranded break
+
+3. Used to detect altered dynamics for DNA double stranded break caused by some molecule
+
+4. Can be used to fight cancer
+
+5. It is an sensitive and accurate system |
+| **Remaining questions**                | None                                                                                                                                                                                                                                                                                   |
