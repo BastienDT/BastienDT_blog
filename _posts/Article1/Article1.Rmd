@@ -60,42 +60,11 @@ Word count : 620
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Researchers?**                       | Malzlyar Jalaal
-
-Nico Schramma
-
-Antoine Dode
-
-Hélène de Maleprade
-
-Christophe Raufaste
-
-Raymond E. Goldstein                                                                                                                                                                                                                                                                                                                                                                        |
-| **Published in? when (if mentioned)?** | Physical review letters (July 6, 2020)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **General topic**                      | The underlying physics about how Pyrocystis lunula produces light                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Procedure/ what was examined**       | · Used of experimental tools :
-
-\- Micromanipulation
-
-\- High-speed imaging
-
-· Examination of Pyrocystis lunula
-
-· Development of a mathematical model to explain these observations                                                                                                                                                                                                                                                                                                |
-| **Conclusions/ discovery**             | 1.  Production of light when cell wall is deformed by mechanical forces.
-
-2. Brightness of the flash depends on depth and the rate of the deformation of the cell wall :
-
-\- light intensity is high if amplitude and rate are large
-
-\- this mechanism avoid spurious light flashes
-
-3. Mechanism related to ion channels :
-
-\- after a stress, ion channels open up, calcium enters and triggers biochemical reaction that produces light
-
-4. Use of light to scare off predators |
-| **Remaining questions**                | None                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-
+|                                        	|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	|
+|----------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Researchers?**                       	| Malzylar Jalaal <br><br>Nico Schramma <br><br>Antoine Dode<br><br>Hélène de Maleprade<br><br>Christophe Raufaste<br><br>Raymond E. Goldstein                                                                                                                                                                                                                                                                                                                                                                                 	|
+| **Published in? when (if mentioned)?** 	| Physical review letters (July 6, 2020)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	|
+| **General topic**                      	| The underlying physics about how Pyrocystis lunula produces light                                                                                                                                                                                                                                                                                                                                                                                                                                                            	|
+| **Procedure/ what was examined**       	| - Used of experimental tools :<br><br>  * Micromanipulation<br>  * High-speed imaging<br><br>- Examination of Pyrocystis lunula<br><br>- Develpoment of a mathematical model to explain these observations                                                                                                                                                                                                                                                                                                                   	|
+| **Conclusions/ discovery**             	| 1. Production of light when cell wall is deformed by mechanical forces<br><br>2. Brightness of the flash depends on depth and the rate of the deformation of the cell wall :<br><br>   -  Light intensity is high if amplitude and rate are large<br>   -  This mechanism avoid spurious light flashes<br><br>3. Mechanism related to ion channels :<br><br>   -  After a stress, ion channels open up, calcium enters and triggers biochemical reaction that produces light<br><br>4. Use of ligt to scare off predators    	|
+| **Remaining questions**                	| None                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|

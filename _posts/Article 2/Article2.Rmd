@@ -58,39 +58,11 @@ Word count : 611
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                        |                                                                                                                                                                                                                                                                                                                                              |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Researchers?**                       | Arkadiy A. Bazhin
-
-Riccardo Sinisi
-
-Umberto De Marchi
-
-Aurélie Hermant
-
-Nicolas Sambiagio
-
-Tamara Maric
-
-Ghyslain Budin
-
-Elena A. Goun.                                                                                                                                                                                                      |
-| **Published in? when (if mentioned)?** | Nature (August 10, 2020)                                                                                                                                                                                                                                                                                                                     |
-| **General topic**                      | A protocol to monitor the activity of mitochondria in living organisms                                                                                                                                                                                                                                                                       |
-| **Procedure/ what was examined**       | · Scientists made two molecules and gave to animal to make bioluminescence
-
-· They inject a substance to rejuvenate mitochondria
-
-· They did the experiment on rodent and animal models of cancer                                                                                                                                            |
-| **Conclusions/ discovery**             | 1. Less light is produced if the mitochondria function less
-
-2. Older mice produce less light
-
-3. Younger mice have a higher potential membrane
-
-4. Rodent with the substance produce more light
-
-5. Could be helpful to create anticancer drug and help cure obesity
-
-6. The method is sensitive, not expensive and easy to put into effect |
-| **Remaining questions**                | None                                                                                                                                                                                                                                                                                                                                         |
+|                                        	|                                                                                                                                                                                                                                                                                                                                                                            	|
+|----------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Researchers?**                       	| Arkadiy A. Bazhin<br><br>Riccardo Sinisi<br><br>Umberto De Marchi<br><br>Aurélie Hermant<br><br>Nicolas Sambiagio<br><br>Tamara Maric<br><br>Ghyslain Budin<br><br>Elena A. Goun                                                                                                                                                                                           	|
+| **Published in? when (if mentioned)?** 	| Nature (August 10, 2020)                                                                                                                                                                                                                                                                                                                                                   	|
+| **General topic**                      	| A protocol to monitor the activity of mitochondria in living organisms                                                                                                                                                                                                                                                                                                     	|
+| **Procedure/ what was examined**       	| - Scientists made two molecules and gave it to animal to make bioluminescence<br><br>- They inject a substance to rejuvenate mitochondria<br><br>- They did the experiment on rodent and animal models of cancer                                                                                                                                                           	|
+| **Conclusions/ discovery**             	| 1. Less light is produced if the mitochondria function less<br><br>2. Older mice produce less light<br><br>3. Younger mice have a higher potential membrane<br><br>4. Rodent with the substance produce more light<br><br>5. Could be helpful to create anticancer drug and help cure obesity<br><br>6. The method is sensitive, not expensive and easy to put into effect 	|
+| **Remaining questions**                	| None                                                                                                                                                                                                                                                                                                                                                                       	|
