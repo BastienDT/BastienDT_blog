@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
-Source of the article: [ScienceDaily](https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og)
+Source of the article: [https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og](https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og)
 
 August 12, 2020
 
@@ -29,22 +29,68 @@ Word count : 611
 
 ### II - VOCABULARY: 
 
-| Word from the text | Synonym/definition in English                                                     | French translation |
-|--------------------|-----------------------------------------------------------------------------------|--------------------|
-| Compound           | Substance                                                                         | Composé            |
-| Rodent             | Any small animal that belongs to a group of animals with strong sharp front teeth | Rongeur            |
-| To rejuvenate      | To make look younger                                                              | Rajeunir           |
-| Intented           | Planned                                                                           | Prévu              |
-| Affordable         | Not expensive                                                                     | Abordable          |
-
+| Word from the text | Synonym/definition in English                                                                          | French translation  |
+| ------------------ | ------------------------------------------------------------------------------------------------------ | ------------------- |
+| effectiveness      | Ability to accomplish aim                                                                              | efficacité          |
+| increasingly       | More and more                                                                                          | De plus en plus     |
+| (to) rely on       | Depend on                                                                                              | Compter sur         |
+| (to) shed light on | Clear up                                                                                               | éclairer            |
+| At bay             | At a distance                                                                                          | À distance          |
+| unmistakable       | Clear, obvious                                                                                         | évident             |
+| clue               | Hint, evidence                                                                                         | indice              |
+| impaired           | damaged                                                                                                | pertubé             |
+| mice               | Plural of mouse                                                                                        | souris              |
+| To express         | say                                                                                                    | exprimer            |
+| luciferase         | The enzyme responsible for bioluminescence in some organisms                                           | luciférase          |
+| Luciferin          | a pigment occurring in luminescent organisms, as fireflies, that emits light when undergoing oxidation | Luciférine          |
+| Compound           | Substance                                                                                              | Composé             |
+| Rodent             | Any small animal that belongs to a group of animals with strong sharp front teeth                      | Rongeur             |
+| Outwards           | Towards the outside                                                                                    | Vers l’extérieur    |
+| To let in          | Allow to pass                                                                                          | Laisser passer      |
+| therefore          | As a consequence                                                                                       | donc                |
+| To carry out       | Perform, conduct                                                                                       | Effectuer, réaliser |
+| To rejuvenate      | To make look younger                                                                                   | Rajeunir            |
+| To monitor         | observe                                                                                                | surveiller          |
+| Intended           | Planned                                                                                                | Prévu               |
+| sensitive          | Instruments: detects small changes                                                                     | sensible            |
+| Affordable         | Not expensive                                                                                          | Abordable           |
+| implement          | Put into effect                                                                                        | Mettre en oeuvre    |
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                           |                                                                                                                                                                 |
-|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Researchers?                              | Arkadiy A. Bazhin, Riccardo Sinisi, Umberto De Marchi, Aurélie Hermant, Nicolas Sambiagio, Tamara Maric, Ghyslain Budin, Elena A. Goun.                         |
-|     Published in? when (if mentioned)?    | Science Daily (August 12, 2020)                                                                                                                                 |
-| General topic                             | By making a mice bioluminescent, scientists have found a way to monitor the activity of mitochondria in living organisms                                        |
-| Procedure/ what was examined              | Scientists created two molecules and injected it into rodent to create light to see the activity of mitochondria                                                |
-| Conclusions/ discovery                    | 1.if mitochondria function less, the animal makes less light, if it functions more, it makes more light  2.older rodents produce less light than the younger one |
-| Remaining questions                       | /                                                                                                                                                               |
+|                                        |                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Researchers?**                       | Arkadiy A. Bazhin
+
+Riccardo Sinisi
+
+Umberto De Marchi
+
+Aurélie Hermant
+
+Nicolas Sambiagio
+
+Tamara Maric
+
+Ghyslain Budin
+
+Elena A. Goun.                                                                                                                                                                                                      |
+| **Published in? when (if mentioned)?** | Nature (August 10, 2020)                                                                                                                                                                                                                                                                                                                     |
+| **General topic**                      | A protocol to monitor the activity of mitochondria in living organisms                                                                                                                                                                                                                                                                       |
+| **Procedure/ what was examined**       | · Scientists made two molecules and gave to animal to make bioluminescence
+
+· They inject a substance to rejuvenate mitochondria
+
+· They did the experiment on rodent and animal models of cancer                                                                                                                                            |
+| **Conclusions/ discovery**             | 1. Less light is produced if the mitochondria function less
+
+2. Older mice produce less light
+
+3. Younger mice have a higher potential membrane
+
+4. Rodent with the substance produce more light
+
+5. Could be helpful to create anticancer drug and help cure obesity
+
+6. The method is sensitive, not expensive and easy to put into effect |
+| **Remaining questions**                | None                                                                                                                                                                                                                                                                                                                                         |

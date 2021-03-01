@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
-Source of the article: [ScienceDaily](https://www.sciencedaily.com/releases/2020/10/201020131344.htm?fbclid=IwAR1h8ouv_JRcbTsg-uzMx-n5KQX9lLgEvHupmd4_mSQebilfvMfcrzni8z8)
+Source of the article: [https://www.sciencedaily.com/releases/2020/10/201020131344.htm?fbclid=IwAR1h8ouv_JRcbTsg-uzMx-n5KQX9lLgEvHupmd4_mSQebilfvMfcrzni8z8](https://www.sciencedaily.com/releases/2020/10/201020131344.htm?fbclid=IwAR1h8ouv_JRcbTsg-uzMx-n5KQX9lLgEvHupmd4_mSQebilfvMfcrzni8z8)
 
 October 20, 2020
 
@@ -29,28 +29,83 @@ Word count : 646
 
 ### II - VOCABULARY: 
 
-| Word from the text | Synonym/definition in English | French translation      |
-|--------------------|-------------------------------|-------------------------|
-| Free-floating      | Not attached to anything      | Flottant                |
-| To Reverberate     | Echo or rebound               | Se répercuter           |
-| Chordate           | Ralating to a phylum Chordata | Chordés                 |
-| Baseline           | Guideline                     | Point de comparaison    |
-| Outfitted          | Equipped                      | Equipé                  |
-| Squishy            | Soft and wet                  | Spongieux               |
-| Gently             | With care                     | Avec douceur, doucement |
-| Elusive            | Avoids asnwering              | Evasif                  |
-| Pathway            | Path                          | Chemin, voie            |
-| Indeed             | Certainly                     | Effectivement           |
-| Seemingly          | Visibly                       | Apparement              |
-| Strikingly         | Impressively                  | Remarquablement         |
+| Word from the text | Synonym/definition in English                   | French translation      |
+| ------------------ | ----------------------------------------------- | ----------------------- |
+| chordate           | Relating to a phylum chordata                   | Chordés                 |
+| So-called          | Commonly named                                  | Ce qu’on appelle        |
+| Free-floating      | Not attached to anything                        | Flottant                |
+| To reverberate     | Echo or rebound                                 | Se répercuter           |
+| Sea squirt         | Variety of marine creature                      | Tunicier                |
+| Throughout         | During all of                                   | Tout au long            |
+| To conduct         | Carry out                                       | mener                   |
+| among              | Member of                                       | parmi                   |
+| Baseline           | Guideline                                       | Point de comparaison    |
+| Off the coast      | In water near shore                             | Au large                |
+| Outfitted          | equipped                                        | Equipé                  |
+| Submersible        | submarine                                       | Navire submersible      |
+| Squishy            | Soft and wet                                    | Spongieux               |
+| Gently             | With care                                       | Avec douceur, doucement |
+| Zooid              | Single animal that is part of a colonial animal | Zooïde                  |
+| Display            | demonstration                                   | Démonstration           |
+| To trigger         | provoke                                         | Provoquer               |
+| Elusive            | Avoids answering                                | Evasif                  |
+| Pathway            | Path                                            | Chemin, voie            |
+| To rely on         | Depend on                                       | Compter sur             |
+| Substrate          | Biology : surface, support                      | substrat                |
+| Further            | More extended                                   | Plus approfondi         |
+| Bloom              | Efflorescence                                   | Efflorescence           |
+| To match           | Go together                                     | Aller ensemble          |
+| Indeed             | Certainly                                       | Effectivement           |
+| Seemingly          | Visibly                                         | Apparement              |
+| Strikingly         | Impressively                                    | Remarquablement         |
+| Convergent         | That meet or come together                      | convergent              |
+| Pattern            | A design on fabric, paper etc                   | Motif                   |
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                           |                                                                                                                                                                                                                                                              |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Researchers?                              | American museum of Natural History. Michael Tessler, Jean P. Gaffney, Anderson G.Oliveira, Andrew Guarnaccia, Krista C. Dobi, Nehaben A. Gujarati, Moira Galbraith, Jeremy D. Mirza, John S. Sparks, Vincent A. Pieribone, Robert J. Wood, David F. Gruber.  |
-|     Published in? when (if mentioned)?    | Science Daily (October 20, 2020)                                                                                                                                                                                                                             |
-| General topic                             | The discovery of a gene that may be the reason of the glow of pyrosomes                                                                                                                                                                                      |
-| Procedure/ what was examined              | They captured pyrosomes and they sequenced the RNA of the organisms                                                                                                                                                                                          |
-| Conclusions/ discovery                    | The discovered gene, when mixed with coelenterazine, produces light                                                                                                                                                                                          |
-| Remaining questions                       | /                                                                                                                                                                                                                                                            |
+|                                        |                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Researchers?**                       | Michael Tessler
+
+Jean P. Gaffney
+
+Anderson G. Oliveira
+
+Andrew Guarnaccia
+
+Krista C. Dobi
+
+Nehaben A. Gujarati
+
+Moira Galbraith
+
+Jeremy D. Mirza
+
+John S. Sparks
+
+Vincent A. Pieribone
+
+Robert J. Wood
+
+David F. Gruber.                                                                                                                                                                               |
+| **Published in? when (if mentioned)?** | Scientific Reports (October 20, 2020)                                                                                                                                                                                                                                                                                                                                                                  |
+| **General topic**                      | The discovery of a bioluminescent gene in chordate                                                                                                                                                                                                                                                                                                                                                     |
+| **Procedure/ what was examined**       | · They captured sea pickles using a submarine with soft robotic hands
+
+· They sequenced their RNA                                                                                                                                                                                                                                                                                                      |
+| **Conclusions/ discovery**             | 1. There is a gene shared with some animals that could be responsible for bioluminescence
+
+2. The mechanism rely on a chemical reaction
+
+3. Mixing coelenterazine with the animal give bioluminescence
+
+4. The gene produce light by expressing it in a bacterial colony and adding coelenterazine
+
+5. These type of gene evolved convergently from a baseline gene
+
+6. The animal makes its own light |
+| **Remaining questions**                | None                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+
