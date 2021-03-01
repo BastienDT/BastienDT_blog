@@ -1,0 +1,101 @@
+---
+title: "Article 1 : Flashes bright when squeezed tight: How single-celled organisms light up the oceans"
+description: |
+  In this first article, we begin our journey into my topic, bioluminescence ! We take a closer look to an organism who can produce light and make the oceans shine.
+author:
+  - name: De Tandt Bastien
+    url: {}
+date: "`October 22, 2020`"
+categories:
+  - "English for Science"
+preview: Image1/dinoflagellate Pyrocystis lunula.png
+#preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: [https://www.sciencedaily.com/releases/2020/07/200706094132.htm](https://www.sciencedaily.com/releases/2020/07/200706094132.htm)
+
+July 6, 2020
+
+Word count : 620
+
+### II - VOCABULARY: 
+
+| Word from the text | Synonym/definition in English                                                                | French translation    |
+| ------------------ | -------------------------------------------------------------------------------------------- | --------------------- |
+| To light up        | brighten                                                                                     | illuminer             |
+| Bloom              | The sudden development of conspicuous masses of organisms, as algae on the surface of a lake | Prolifération         |
+| Dinoflagellates    | Single-celled aquatic organism with two flagella                                             | Dinoflagellés         |
+| Eerie              | Mysterious, creepy                                                                           | Etrange               |
+| striking           | impressive                                                                                   | Frappant, saisissant  |
+| Endowing           | Favoring, gifting                                                                            | dotant                |
+| underlying         | Below something                                                                              | Sous-jacent           |
+| Tool               | instrument                                                                                   | outil                 |
+| Cell walll         | outer layer surrounding certain cells that is outside of the cell membrane                   | Paroi cellulaire      |
+| Through            | In one end and out another                                                                   | À travers             |
+| brigthness         | Light : relative intensity                                                                   | Luminosité            |
+| rate               | Measurement, ratio                                                                           | taux                  |
+| related to         | Be connected with                                                                            | Avoir un lien avec    |
+| Stressed           | The physical force exerted on one thing by another                                           | Sous contrainte       |
+| To trigger         | To cause or begin                                                                            | Déclencher, provoquer |
+| primarily          | mainly                                                                                       | principalement        |
+| Fluid flow         | Stream of fluid                                                                              | Écoulement de fluide  |
+| (to) remain        | Continue to be                                                                               | rester                |
+| Decision-making    | Process or act of making decisions                                                           | Prise de décision     |
+| Fireflies          | A beetle that comes out at night, having a light-producing organ at the rear of the abdomen. | Ver luisant, luciole  |
+| Indentation        | A cut, gap or mark in the edge or surface of something                                       | Indentation           |
+| Spurious           | Not authentic                                                                                | Faux, fallacieux      |
+| mating             | Creating babies                                                                              | reproduction          |
+| To scare off       | To fill or be filled with fear or alarm                                                      | Effrayer              |
+| meantime           | During this time                                                                             | Pendant ce temps-là   |
+| quantitatively     | Based on amounts                                                                             | quantitavement        |
+
+### III - ANALYSIS TABLE ABOUT THE STUDY 
+
+|                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Researchers?**                       | Malzlyar Jalaal
+
+Nico Schramma
+
+Antoine Dode
+
+Hélène de Maleprade
+
+Christophe Raufaste
+
+Raymond E. Goldstein                                                                                                                                                                                                                                                                                                                                                                        |
+| **Published in? when (if mentioned)?** | Physical review letters (July 6, 2020)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **General topic**                      | The underlying physics about how Pyrocystis lunula produces light                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Procedure/ what was examined**       | · Used of experimental tools :
+
+\- Micromanipulation
+
+\- High-speed imaging
+
+· Examination of Pyrocystis lunula
+
+· Development of a mathematical model to explain these observations                                                                                                                                                                                                                                                                                                |
+| **Conclusions/ discovery**             | 1.  Production of light when cell wall is deformed by mechanical forces.
+
+2. Brightness of the flash depends on depth and the rate of the deformation of the cell wall :
+
+\- light intensity is high if amplitude and rate are large
+
+\- this mechanism avoid spurious light flashes
+
+3. Mechanism related to ion channels :
+
+\- after a stress, ion channels open up, calcium enters and triggers biochemical reaction that produces light
+
+4. Use of light to scare off predators |
+| **Remaining questions**                | None                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
