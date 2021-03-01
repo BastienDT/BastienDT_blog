@@ -67,37 +67,11 @@ Word count : 466
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                        |                                                                                                                                                                                                                                                                                        |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Researchers?**                       | Jasper Che-Yung Chien
-
-Elie Tabet
-
-Kelsey Pinkham
-
-Cintia Carla da  Hora
-
-Jason Cheng-Yu Chang
-
-Steven Lin
-
-Christian E Badr
-
-Charles Pink-Kuang Lai.                                                                                                                                  |
-| **Published in? when (if mentioned)?** | Nucleic Acids Research (14 August, 2020)                                                                                                                                                                                                                                               |
-| **General topic**                      | Bioluminescent tag to detect DNA break repair                                                                                                                                                                                                                                          |
-| **Procedure/ what was examined**       | · Use of enzymes responsible for bioluminescence to follow molecules in cell
-
-· Scientist test it on animals and cell lines
-
-· They study DNA with this system                                                                                                                         |
-| **Conclusions/ discovery**             | 1. Can monitor and detect DNA repair pathways
-
-2. It is used to detect two main path of DNA double stranded break
-
-3. Used to detect altered dynamics for DNA double stranded break caused by some molecule
-
-4. Can be used to fight cancer
-
-5. It is an sensitive and accurate system |
-| **Remaining questions**                | None                                                                                                                                                                                                                                                                                   |
+|                                        	|                                                                                                                                                                                                                                                                                                                 	|
+|----------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Researchers?**                       	| Jasper Che-Yung Chien<br><br>Elie Tabet<br><br>Kelsey Pinkham<br><br>Cintia Carla da Hora<br><br>Jason Cheng-Yu Chang<br><br>Steven Lin<br><br>Christian E Badr<br><br>Charles Pink-Kuang Lai                                                                                                                   	|
+| **Published in? when (if mentioned)?** 	| Nucleic Acids Research (14 August, 2020)                                                                                                                                                                                                                                                                        	|
+| **General topic**                      	| Bioluminescent tag to detect DNA break repair                                                                                                                                                                                                                                                                   	|
+| **Procedure/ what was examined**       	| - Use of enzymes responsible for bioluminescence to follow molecules in cell<br><br>- Scientist test it on animals and cell lines<br><br>- They study DNA with this system                                                                                                                                      	|
+| **Conclusions/ discovery**             	| 1. Can monitor and detect DNA repair pathways.<br><br>2. It is used to detect two main path of DNA double stranded break<br><br>3. Used to detect altered dynamics for DNA double stranded break caused by some molecule<br><br>4. Can be used to fight cancer<br><br>5. It is an sensitive and accurate system 	|
+| **Remaining questions**                	| None                                                                                                                                                                                                                                                                                                            	|

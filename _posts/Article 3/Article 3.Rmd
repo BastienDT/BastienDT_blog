@@ -63,49 +63,14 @@ Word count : 646
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                        |                                                                                                                                                                                                                                                                                                                                                                                                        |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Researchers?**                       | Michael Tessler
-
-Jean P. Gaffney
-
-Anderson G. Oliveira
-
-Andrew Guarnaccia
-
-Krista C. Dobi
-
-Nehaben A. Gujarati
-
-Moira Galbraith
-
-Jeremy D. Mirza
-
-John S. Sparks
-
-Vincent A. Pieribone
-
-Robert J. Wood
-
-David F. Gruber.                                                                                                                                                                               |
-| **Published in? when (if mentioned)?** | Scientific Reports (October 20, 2020)                                                                                                                                                                                                                                                                                                                                                                  |
-| **General topic**                      | The discovery of a bioluminescent gene in chordate                                                                                                                                                                                                                                                                                                                                                     |
-| **Procedure/ what was examined**       | · They captured sea pickles using a submarine with soft robotic hands
-
-· They sequenced their RNA                                                                                                                                                                                                                                                                                                      |
-| **Conclusions/ discovery**             | 1. There is a gene shared with some animals that could be responsible for bioluminescence
-
-2. The mechanism rely on a chemical reaction
-
-3. Mixing coelenterazine with the animal give bioluminescence
-
-4. The gene produce light by expressing it in a bacterial colony and adding coelenterazine
-
-5. These type of gene evolved convergently from a baseline gene
-
-6. The animal makes its own light |
-| **Remaining questions**                | None                                                                                                                                                                                                                                                                                                                                                                                                   |
-
+|                                        	|                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+|----------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Researchers?**                       	| Michael Tessler<br><br>Jean P. Gaffney<br><br>Anderson G. Oliveira<br><br>Andrew Guarnaccia<br><br>Krista C. Dobi<br><br>Nehaben A. Gujarati<br><br>Moira Galbraith<br><br>Jeremy D. Mirza<br><br>John S. Sparks<br><br>Vincent A. Pieribone<br><br>Robert J. Wood<br><br>David F. Gruber                                                                                                                                               	|
+| **Published in? when (if mentioned)?** 	| Scientific Reports (October 20, 2020)                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| **General topic**                      	| The discovery of a bioluminescent gene in chordate                                                                                                                                                                                                                                                                                                                                                                                      	|
+| **Procedure/ what was examined**       	| - They captured sea pickles using a submarine with soft robotic hands<br><br>- They sequenced their RNA                                                                                                                                                                                                                                                                                                                                 	|
+| **Conclusions/ discovery**             	| 1. There is a gene shared with some animals that could be responsible for bioluminescence<br><br>2. The machanism rely on a chemical reaction<br><br>3. Mixing coelenterazine with the animal give bioluminescence  <br><br>4. The gene produce light by expressing it in a bacterial colony and adding coelenterazine <br><br>5. These type of gene evolved convergently from a baseline gene<br><br>6. The animal makes its own light 	|
+| **Remaining questions**                	| None                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
 
 
 

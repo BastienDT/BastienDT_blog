@@ -58,29 +58,11 @@ Word count: 416
 
 ### III - ANALYSIS TABLE ABOUT THE STUDY 
 
-|                                        |                                                                                                                                                                                                                                                                                                                                                          |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Researchers?**                       | César Carrasco-López
-
-Nathan M. Lui
-
-Stefan Schramm
-
-Panče Naumov.                                                                                                                                                                                                                                                                                       |
-| **Published in? when (if mentioned)?** | Nature (December 09, 2020)                                                                                                                                                                                                                                                                                                                               |
-| **General topic**                      | A review about bioluminescence                                                                                                                                                                                                                                                                                                                           |
-| **Procedure/ what was examined**       | · They summed up knowledge we have about bioluminescence
-
-· They used scientific literature
-
-· They analyzed structural factors for light emission on wild-type and mutant luciferases                                                                                                                                                                   |
-| **Conclusions/ discovery**             | 1. Will help other scientists in their work about bioluminescence
-
-2. Possibility to form a library of bioluminescent enzyme
-
-3. Scientists could control color and intensity of the light
-
-4. This will enlarge the limits of application of bioluminescence
-
-5. There is a large panel of application such as cancer research, monitor water toxicity… |
-| **Remaining questions**                | None                                                                                                                                                                                                                                                                                                                                                     |
+|                                        	|                                                                                                                                                                                                                                                                                                                                                                                       	|
+|----------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Researchers?**                       	| César Carrasco-Lopez<br><br>Nathan M. Lui<br><br>Stefan Schramm<br><br>Pance Naumov                                                                                                                                                                                                                                                                                                   	|
+| **Published in? when (if mentioned)?** 	| Nature (December 09, 2020)                                                                                                                                                                                                                                                                                                                                                            	|
+| **General topic**                      	| A review about bioluminescence                                                                                                                                                                                                                                                                                                                                                        	|
+| **Procedure/ what was examined**       	| - They summed up knowledge we have about bioluminescence<br><br>- They used scientific literature<br><br>- They analyzed structural factors for light emission on wild-type and mutant luciferases                                                                                                                                                                                    	|
+| **Conclusions/ discovery**             	| 1. Will help other scientists in their work about bioluminescence<br><br>2. Possibility to form a library of bioluminescent enzyme<br><br>3. Scientists could control color and intensity of the light <br><br>4. This will enlarge the limits of application of bioluminescence<br><br>5. There is a large panel of application such as cancer research, monitor water toxicity, ... 	|
+| **Remaining questions**                	| None                                                                                                                                                                                                                                                                                                                                                                                  	|
