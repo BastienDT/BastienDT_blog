@@ -1,7 +1,7 @@
 ---
 title: "Article 7 : Brazilians start to unravel the mystery of North American insect bioluminescent systems"
 description: |
-  In this second article, we see how bioluminescence is used to monitor the activity of mitochondria.
+  Here is my last article where we learn more about *Orfelia fultoni*, a fungus gnap and its blue light !
 author:
   - name: De Tandt Bastien
     url: {}
@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
-Source of the article: [https://phys.org/news/2020-09-brazilians-unravel-mystery-north-american.html?fbclid=IwAR0ZvJJRxYfa1dWgVg_CdgZsr0S7kbdrWxihoZmhHkqA_Oe6u8ORGkG57Ks](https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og)
+Source of the article: [https://phys.org/news/2020-09-brazilians-unravel-mystery-north-american.html?fbclid=IwAR0ZvJJRxYfa1dWgVg_CdgZsr0S7kbdrWxihoZmhHkqA_Oe6u8ORGkG57Ks](https://phys.org/news/2020-09-brazilians-unravel-mystery-north-american.html?fbclid=IwAR0ZvJJRxYfa1dWgVg_CdgZsr0S7kbdrWxihoZmhHkqA_Oe6u8ORGkG57Ks)
 
 September 14, 2020
 
