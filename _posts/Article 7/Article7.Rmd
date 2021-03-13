@@ -1,0 +1,68 @@
+---
+title: "Article 7 : Brazilians start to unravel the mystery of North American insect bioluminescent systems"
+description: |
+  In this second article, we see how bioluminescence is used to monitor the activity of mitochondria.
+author:
+  - name: De Tandt Bastien
+    url: {}
+date: "`March 13, 2020`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: [https://phys.org/news/2020-09-brazilians-unravel-mystery-north-american.html?fbclid=IwAR0ZvJJRxYfa1dWgVg_CdgZsr0S7kbdrWxihoZmhHkqA_Oe6u8ORGkG57Ks](https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og)
+
+September 14, 2020
+
+Word count : 782
+
+### II - VOCABULARY: 
+
+| Word from the text | Synonym/definition in English              | French translation    |
+| ------------------ | ------------------------------------------ | --------------------- |
+| To unravel         | Explain, solve                             | résoudre              |
+| belonging          | possession                                 | appartenant           |
+| Fungus gnat        | Small, dark, short-lived gnats             | Moucheron fongique    |
+| few                | Not many                                   | Peu de                |
+| To inhabit         | Live, reside in a place                    | habiter               |
+| riverbank          | Edge of a river                            | Rive, berge           |
+| affiliated         | associated                                 | affilié               |
+| Glow-worm          | Fire beetle                                | Ver luisant           |
+| poorly             | badly                                      | mal                   |
+| To specify         | State exactly                              | Préciser, spécifier   |
+| Yet                | Now, at this time                          | déjà                  |
+| Hexamerin          | Any of a family of insect storage proteins | Hexamerine            |
+| To provide         | Furnish, supply                            | fournir               |
+| Besides            | As well                                    | En plus               |
+| To bind            | Tie up                                     | attacher              |
+| compound           | composite                                  | composé               |
+| investigator       | Scientific researcher                      | Chercheur, chercheuse |
+| partnership        | Working together                           | Partenariat           |
+| To investigate     | Try to find out something                  | Chercher à savoir     |
+| significance       | importance                                 | importance            |
+| reducer            | Substance that reduces something           | réducteur             |
+| surrounding        | All around                                 | Environnant           |
+| elucidation        | clarification                              | élucidation           |
+| relative           | Family member                              | parent                |
+| trunk              | Thickest part of a tree                    | Tronc (d’arbre)       |
+| sufficient         | enough                                     | suffisant             |
+
+### III - ANALYSIS TABLE ABOUT THE STUDY
+
+|                                        	|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          	|
+|----------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Researchers?**                       	| Vadim R. Viviani<br><br>Jaqueline R. Silva<br><br>Danilo T. Amaral<br><br>Vanessa R. Bevilaqua<br><br>Fabio C. Abdalla<br><br>Bruce R. Branchini<br><br>Carl H. Johnson                                                                                                                                                                                                                                                                                                                                                                                                                  	|
+| **Published in? when (if mentioned)?** 	| Scientific reports (June 15, 2020)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	|
+| **General topic**                      	| A study about luciferin-luciferase system from a fungus gnat that produces blue light                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+| **Procedure/ what was examined**       	| - Scientists have isolated luciferin and luciferase of the fungus gnat *Orfelia fultoni*<br><br>- Characterize the properties of these molecules giving bioluminescence to the animal<br><br>- Describe where in the larvae those molecules are in<br><br>- Give potentials clues of proteins for the luciferase<br><br>- Describe another clues of proteins for the luciferase<br><br>- Describe another complex of an another insect (a Brazilian species) that produces luciferin  but not light<br><br>- Put purified luciferases of *Orfelia fultoni* in the Brazilian species <br> 	|
+| **Conclusions/ discovery**             	| 1. With the purified enzyme, the species produce blue light<br><br>2. Bioluminescent system of both species is the same<br><br>3. Luciferin-luciferase system can be used for biotech applications :<br><br>- Will help to understand human diseases<br>- Studying cells                                                                                                                                                                                                                                                                                                                 	|
+| **Remaining questions**                	| - Researchers don't know what kind of protein luciferase is<br><br>- Further researches need to be done about the complex                                                                                                                                                                                                                                                                                                                                                                                                                                                                	|
