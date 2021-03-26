@@ -16,10 +16,10 @@ Greetings everybody and welcome on my blog !
 
 To make you feel at ease with me, I made a little section, [**About Me**](https://bastiendt.github.io/BastienDT_blog/posts/about/) where I talk about myself, what I like to do and what is the purpose of this blog to put a little context about the project !
 
-If you have already read my blog, you already know that the topic of it is bioluminescence. Before going deeper, I wrote a little introduction about this subject :
+If you have already read my blog, you already know that the topic of it is bioluminescence. Before going deeper, I wrote a little **introduction** about this subject :
 
 
-Bioluminescence, this phenomenon that have been fascinating humankind since the dawn of time, is everywhere. Ranging from fireflies to unicellular organisms via sea cucumber, the light that emit these organisms can be used for a lot of complex research and help us to improve health quality and so much more. 
+**Bioluminescence**, this phenomenon that have been fascinating humankind since the dawn of time, is everywhere. Ranging from fireflies to unicellular organisms via sea cucumber, the light that emit these organisms can be used for a lot of complex research and help us to improve health quality and so much more. 
 
 
 When I was looking for a subject, I turned to bioluminescence and I found many fascinating articles that pushed me to have an interest in it and to write about it. 
