@@ -10,17 +10,37 @@ listing: posts
   
 .  
   
-# HomePage
+# Homepage
 
 Greetings everybody and welcome on my blog ! 
 
-In this blog you can navigate through multiple sections as :
+To make you feel at ease with me, I made a little section, [**About Me**](https://bastiendt.github.io/BastienDT_blog/posts/about/) where I talk about myself, what I like to do and what is the purpose of this blog to put a little context about the project !
 
-* **Home:** it's simply my homepage, the page where you are now. It includes all my recent posts and the section below.
+If you have already read my blog, you already know that the topic of it is bioluminescence. Before going deeper, I wrote a little introduction about this subject :
 
-* **About me:** it's a section where you can learn a litlle bit about me and about the purpose of this blog.
 
-* **MEAL:** it stands for my English activity log, there you can see how I train my English, what are my usuals things that I do to improve it and the activities that I do that involves English.
+Bioluminescence, this phenomenon that have been fascinating humankind since the dawn of time, is everywhere. Ranging from fireflies to unicellular organisms via sea cucumber, the light that emit these organisms can be used for a lot of complex research and help us to improve health quality and so much more. 
+
+
+When I was looking for a subject, I turned to bioluminescence and I found many fascinating articles that pushed me to have an interest in it and to write about it. 
+
+
+When you will go through my blog and my articles, you will find how scientists use luciferase, the enzyme that catalyzes the oxidation of luciferin resulting in light, to study mitochondria or DNA break repair and how tiny cells lights up the oceans but that is not all ! You will also find out that bioluminescence is much closer in the tree of life that we could think, that the phenomenon is really ancient and has many functions such as alert predator or mating and that not only one system of bioluminescence exists but there is also a system that is able to produce blue light instead of the common bright yellow light from fireflies that almost everyone knows.
+
+
+If you are a bit lost, no worries ! One of my articles is about a team of scientists that made an article about the subject to help other people for their researches.
+
+
+All that remains is for me to wish you a good read and a good time in front of this blog !
+
+
+Now that you are sitting comfortably, I can present to you the multiple sections that compose the blog as :
+
+* **Home:** it's simply my homepage, the page where you are now. It includes all my recent posts, my introduction and the section below.
+
+* **About me:** it's a section where you can learn a litlle bit about me and about the purpose of this blog like I said at the beginning.
+
+* **MEAL:** it stands for my English activity log, there you can see how I train my English, what are my usuals things that I do to improve it and the activities that I do that involve English.
 
 * **Data Sciences I:** in this category, i put my work for my cursus of data sciences.
 

@@ -8,6 +8,8 @@ author:
 date: "`March 01, 2021`"
 categories:
   - "English for Science"
+preview: Image6/Bioluminescent system.webp
+#preview: 
 output:
   distill::distill_article:
     self_contained: false

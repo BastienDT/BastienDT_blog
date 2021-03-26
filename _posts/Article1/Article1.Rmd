@@ -1,7 +1,7 @@
 ---
 title: "Article 1 : Flashes bright when squeezed tight: How single-celled organisms light up the oceans"
 description: |
-  In this first article, we begin our journey into my topic, bioluminescence ! We take a closer look to an organism who can produce light and make the oceans shine.
+  With this article, we begin our journey into my topic, bioluminescence ! We take a closer look to an organism who can produce light and make the oceans shine.
 author:
   - name: De Tandt Bastien
     url: {}

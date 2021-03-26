@@ -1,7 +1,7 @@
 ---
 title: "Article 4: Bioluminescent tag to detect DNA break repair"
 description: |
-  Check out how scientist use bioluminescence to fight cancer!
+  Check out how scientist use bioluminescence to fight cancer !
 author:
   - name: De Tandt Bastien
     url: {}
