@@ -10,12 +10,30 @@ navbar:
       href: "posts/about/index.html"
     - text: "M.E.A.L."
       href: "posts/meal/index.html"
+    - text: "Articles"
+      menu:
+      - text: "Article 1"
+        href: "posts/Article1/index.html"
+      - text: "Article 2"
+        href: "posts/Article 2/index.html"
+      - text: "Article 3"
+        href: "posts/Article 3/index.html"
+      - text: "Article 4"
+        href: "posts/Article 4/index.html"
+      - text: "Article 5"
+        href: "posts/Article 5/index.html"
+      - text: "Article 6"
+        href: "posts/Article 6/index.html"
+      - text: "Article 7"
+        href: "posts/Article 7/index.html"
+    - text: "Data Science"
+      href: "posts/Graph SDD module4/index.html"
     - icon: fab fa-github
       href: https://github.com/BastienDT/BastienDT_blog
 base_url: http://BastienDT.github.io/BastienDT_blog/
 collections:
     posts:
-      share: [twitter, linkedin, facebook]
+      share: [twitter, linkedin, facebook, instagram]
       disqus: bastien-blog-1
       hidden: false
 output:
