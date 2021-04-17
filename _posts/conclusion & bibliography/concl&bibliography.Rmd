@@ -1,5 +1,5 @@
 ---
-title: "Conclusions & bibliography"
+title: "Conclusion & bibliography"
 description: |
   Every good things have an end, it is time for me to conclude what I've learned while doing this blog and to put all my sources that helped me.
 author:

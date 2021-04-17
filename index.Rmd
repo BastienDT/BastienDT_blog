@@ -42,7 +42,7 @@ Now that you are sitting comfortably, I can present to you the multiple sections
 
 * **MEAL:** it stands for my English activity log, there you can see how I train my English, what are my usuals things that I do to improve it and the activities that I do that involve English.
 
-* **Data Sciences I:** in this category, i put my work for my cursus of data sciences.
+* **Data Science :** in this category, i put my work for my cursus of data sciences.
 
 * **Articles:** it regroups all my articles for my cursus of English and my conclusions & bibliography. 
 
