@@ -44,6 +44,6 @@ Now that you are sitting comfortably, I can present to you the multiple sections
 
 * **Data Sciences I:** in this category, i put my work for my cursus of data sciences.
 
-* **Articles:** it regroups all my articles for my cursus of English. 
+* **Articles:** it regroups all my articles for my cursus of English and my conclusions & bibliography. 
 
 Feel free to put comments on the comment section ! I would be more than glad to receive your feedback about my blog and my work.

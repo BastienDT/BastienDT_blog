@@ -26,6 +26,8 @@ navbar:
         href: "posts/Article 6/index.html"
       - text: "Article 7"
         href: "posts/Article 7/index.html"
+      - text: "Conclusion & bibliography"
+        href: "posts/conclusion & bibliography/index.html"
     - text: "Data Science"
       href: "posts/Graph SDD module4/index.html"
     - icon: fab fa-github
