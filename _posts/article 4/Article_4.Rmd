@@ -1,7 +1,7 @@
 ---
 title: "Article 4: Bioluminescent tag to detect DNA break repair"
 description: |
-  Check out how scientist use bioluminescence to fight cancer !
+  Check out how scientists use bioluminescence to fight cancer !
 author:
   - name: De Tandt Bastien
     url: {}
@@ -38,11 +38,11 @@ Word count : 466
 | To monitor         | observe                                                                        | Surveiller         |
 | pathway            | path                                                                           | chemin             |
 | Cell lines         | cell culture                                                                   | Culture cellulaire |
-| such               | So extreme                                                                     | Tel, telle         |
+| such               | So, like that                                                                  | Tel, telle         |
 | crucial            | Very important                                                                 | crucial            |
 | Inherently         | By nature                                                                      | Par nature         |
 | To maintain        | Rate                                                                           | Maintenir          |
-| To disrupt         | Cause disorder                                                                 | pertuber           |
+| To disrupt         | Cause disorder                                                                 | perturber          |
 | Viability          | feasibility                                                                    | Viabilité          |
 |                    |                                                                                |                    |
 | Intrinsic          | inherent                                                                       | Intrinsèque        |
@@ -56,7 +56,7 @@ Word count : 466
 | Accuracy           | Degree of correctness                                                          | exactitude         |
 | To carry out       | accomplish                                                                     | réaliser           |
 | significant        | With meaning                                                                   | Significative      |
-| Altered            | changed                                                                        | Modifié, change    |
+| Altered            | changed                                                                        | Modifié, changé    |
 | induced            | Caused by                                                                      | Causé par          |
 | Glioblastomas      | The most common and most aggressive primary brain tumour                       | glioblastome       |
 | Glioma             | A brain tumor                                                                  | Gliome             |

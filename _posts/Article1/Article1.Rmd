@@ -39,9 +39,9 @@ Word count : 620
 | Endowing           | Favoring, gifting                                                                            | dotant                |
 | underlying         | Below something                                                                              | Sous-jacent           |
 | Tool               | instrument                                                                                   | outil                 |
-| Cell walll         | outer layer surrounding certain cells that is outside of the cell membrane                   | Paroi cellulaire      |
+| Cell wall          | outer layer surrounding certain cells that is outside of the cell membrane                   | Paroi cellulaire      |
 | Through            | In one end and out another                                                                   | À travers             |
-| brigthness         | Light : relative intensity                                                                   | Luminosité            |
+| brightness         | Light : relative intensity                                                                   | Luminosité            |
 | rate               | Measurement, ratio                                                                           | taux                  |
 | related to         | Be connected with                                                                            | Avoir un lien avec    |
 | Stressed           | The physical force exerted on one thing by another                                           | Sous contrainte       |

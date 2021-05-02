@@ -1,7 +1,7 @@
 ---
 title: "Conclusion & bibliography"
 description: |
-  Every good things have an end, it is time for me to conclude what I've learned while doing this blog and to put all my sources that helped me.
+  Every good things have an end, it is time for me to conclude what I've learned while doing this blog and to put all the sources that helped me.
 author:
   - name: De Tandt Bastien
     url: {}
@@ -26,28 +26,23 @@ To sum up, I learned a lot of things, studying and understanding it can help us 
 
 ### Bibliography
 
+American Museum of Natural History. (2020, October 20). Newly discovered gene may give 'sea pickles' their glow: Finding could be first bioluminescent gene identified in a chordate, may be common across tree of life. ScienceDaily. [https://www.sciencedaily.com/releases/2020/10/201020131344.htm?fbclid=IwAR1h8ouv_JRcbTsg-uzMx-n5KQX9lLgEvHupmd4_mSQebilfvMfcrzni8z8](https://www.sciencedaily.com/releases/2020/10/201020131344.htm?fbclid=IwAR1h8ouv_JRcbTsg-uzMx-n5KQX9lLgEvHupmd4_mSQebilfvMfcrzni8z8). Consulted on Saturday, 7th November 2020.
+
+Ecole Polytechnique Fédérale de Lausanne. (2020, August 12). Fireflies shed light on the function of mitochondria. ScienceDaily. [https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og](https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og). Consulted on Tuesday, 3rd November 2020.
+
+Julião, A. (2020, September 14). Brazilians start to unravel the mystery of North American insect bioluminescent systems. Phys.Org. [https://phys.org/news/2020-09-brazilians-unravel-mystery-north-american.html?fbclid=IwAR0ZvJJRxYfa1dWgVg_CdgZsr0S7kbdrWxihoZmhHkqA_Oe6u8ORGkG57Ks](https://phys.org/news/2020-09-brazilians-unravel-mystery-north-american.html?fbclid=IwAR0ZvJJRxYfa1dWgVg_CdgZsr0S7kbdrWxihoZmhHkqA_Oe6u8ORGkG57Ks). Consulted on Saturday, 13th March 2021.
+
 Linguee. (2010). [online translator]. DeepL GmbH. [https://www.linguee.com/](https://www.linguee.com/)
 
+Massachusetts General Hospital. (2020, August 21). Bioluminescent tag to detect DNA break repair. ScienceDaily. [https://www.sciencedaily.com/releases/2020/08/200821141154.htm?fbclid=IwAR0Cyv_LiYcH8GYykwuSCqRwtmf-CNz7ba7KC6-NuaapyJ2mG6DoPHF77r8](https://www.sciencedaily.com/releases/2020/08/200821141154.htm?fbclid=IwAR0Cyv_LiYcH8GYykwuSCqRwtmf-CNz7ba7KC6-NuaapyJ2mG6DoPHF77r8). Consulted on Friday, 4th December 2020.
+
+New York University. Shedding new light on mysteries behind the light emission of fireflies. (2020, 14 December). ScienceDaily. [https://www.sciencedaily.com/releases/2020/12/201210145705.htm?fbclid=IwAR2Zwal8uaio3eQ3OTqS06Ar2-RzELn7RIJZf9sJ68exAVH7Zl9RZ_Vwics](https://www.sciencedaily.com/releases/2020/12/201210145705.htm?fbclid=IwAR2Zwal8uaio3eQ3OTqS06Ar2-RzELn7RIJZf9sJ68exAVH7Zl9RZ_Vwics). Consulted on Monday, 1st March 2021.
+
+University of Bristol. (2021, January 19). Amber-encased fossil shines light on evolution of bioluminescent insects: Preserved with 'life-like' fidelity, beetle from the Cretaceous is fireflies' missing fossil link. ScienceDaily. [https://www.sciencedaily.com/releases/2021/01/210119194401.htm?fbclid=IwAR3FKFt7LhEsKep-smobciwa3ll3_yjm5nxJ1k31dQcaC_cSevmVGGunDRA](https://www.sciencedaily.com/releases/2021/01/210119194401.htm?fbclid=IwAR3FKFt7LhEsKep-smobciwa3ll3_yjm5nxJ1k31dQcaC_cSevmVGGunDRA). Consulted on Saturday, 6th February 2021.
+
+University of Cambridge. (2020, July 6). Flashes bright when squeezed tight: How single-celled organisms light up the oceans. ScienceDaily. [https://www.sciencedaily.com/releases/2020/07/200706094132.htm](https://www.sciencedaily.com/releases/2020/07/200706094132.htm). Consulted on Thursday, 22nd October 2020.
 
 WordReference. (1999). [Online bilingual dictionaries]. [https://www.wordreference.com](https://www.wordreference.com/)
 
 
-University of Cambridge. (2020, July 6). Flashes bright when squeezed tight: How single-celled organisms light up the oceans. ScienceDaily. [https://www.sciencedaily.com/releases/2020/07/200706094132.htm](https://www.sciencedaily.com/releases/2020/07/200706094132.htm). Consulted on Thursday, 22nd October 2020.
 
-
-Ecole Polytechnique Fédérale de Lausanne. (2020, August 12). Fireflies shed light on the function of mitochondria. ScienceDaily. [https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og](https://www.sciencedaily.com/releases/2020/08/200812201330.htm?fbclid=IwAR2cxYqP-IAodpDLYH04DxwtMSB_FVjPX14euOdPEXqWGyQn3DJA7G-S3og). Consulted on Tuesday, 3rd November 2020.
-
-
-American Museum of Natural History. (2020, October 20). Newly discovered gene may give 'sea pickles' their glow: Finding could be first bioluminescent gene identified in a chordate, may be common across tree of life. ScienceDaily. [https://www.sciencedaily.com/releases/2020/10/201020131344.htm?fbclid=IwAR1h8ouv_JRcbTsg-uzMx-n5KQX9lLgEvHupmd4_mSQebilfvMfcrzni8z8](https://www.sciencedaily.com/releases/2020/10/201020131344.htm?fbclid=IwAR1h8ouv_JRcbTsg-uzMx-n5KQX9lLgEvHupmd4_mSQebilfvMfcrzni8z8). Consulted on Saturday, 7th November 2020.
-
-
-Massachusetts General Hospital. (2020, August 21). Bioluminescent tag to detect DNA break repair. ScienceDaily. [https://www.sciencedaily.com/releases/2020/08/200821141154.htm?fbclid=IwAR0Cyv_LiYcH8GYykwuSCqRwtmf-CNz7ba7KC6-NuaapyJ2mG6DoPHF77r8](https://www.sciencedaily.com/releases/2020/08/200821141154.htm?fbclid=IwAR0Cyv_LiYcH8GYykwuSCqRwtmf-CNz7ba7KC6-NuaapyJ2mG6DoPHF77r8). Consulted on Friday, 4th December 2020.
-
-
-University of Bristol. (2021, January 19). Amber-encased fossil shines light on evolution of bioluminescent insects: Preserved with 'life-like' fidelity, beetle from the Cretaceous is fireflies' missing fossil link. ScienceDaily. [https://www.sciencedaily.com/releases/2021/01/210119194401.htm?fbclid=IwAR3FKFt7LhEsKep-smobciwa3ll3_yjm5nxJ1k31dQcaC_cSevmVGGunDRA](https://www.sciencedaily.com/releases/2021/01/210119194401.htm?fbclid=IwAR3FKFt7LhEsKep-smobciwa3ll3_yjm5nxJ1k31dQcaC_cSevmVGGunDRA). Consulted on Saturday, 6th February 2021.
-
-
-New York University. Shedding new light on mysteries behind the light emission of fireflies. (2020, 14 December). ScienceDaily. [https://www.sciencedaily.com/releases/2020/12/201210145705.htm?fbclid=IwAR2Zwal8uaio3eQ3OTqS06Ar2-RzELn7RIJZf9sJ68exAVH7Zl9RZ_Vwics](https://www.sciencedaily.com/releases/2020/12/201210145705.htm?fbclid=IwAR2Zwal8uaio3eQ3OTqS06Ar2-RzELn7RIJZf9sJ68exAVH7Zl9RZ_Vwics). Consulted on Monday, 1st March 2021.
-
-
-Julião, A. (2020, September 14). Brazilians start to unravel the mystery of North American insect bioluminescent systems. Phys.Org. [https://phys.org/news/2020-09-brazilians-unravel-mystery-north-american.html?fbclid=IwAR0ZvJJRxYfa1dWgVg_CdgZsr0S7kbdrWxihoZmhHkqA_Oe6u8ORGkG57Ks](https://phys.org/news/2020-09-brazilians-unravel-mystery-north-american.html?fbclid=IwAR0ZvJJRxYfa1dWgVg_CdgZsr0S7kbdrWxihoZmhHkqA_Oe6u8ORGkG57Ks). Consulted on Saturday, 13th March 2021.
